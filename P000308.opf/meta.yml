@@ -3,5 +3,20 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG13792
   title: རྡོ་རིང་པཎྜི་ཏ་བསྟན་འཛིན་དཔལ་འབྱོར་ལགས་ཀྱི་སྐུ་ཚེའི་ལོ་རྒྱུས་དང་། གཞས་ཚིག་ཕྱོགས་བསྡུས་དགའ་བའི་གླུ་དབྱངས།
-  volume: ''
+  volume:
+    4a4da23a81b64689add3317ce957225f:
+      image_group_id: I1KG15371
+      title: Volume 1 of bod gangs can ljongs kyi gna' bo'i srol rgyun gyi sgyu rtsal
+        nang ma dang / stod gzhas gnyis gsar gtod mdzad mkhan rdo ring paN+Di ta bstan
+        'dzin dpal 'byor lags kyi sku tshe'i lo rgyus dang / gzhas tshog phyogs bsdus
+        dga' ba'i glu dbyangs/
+      volume_number: 1
+      total_pages: 190
   author: ''
+ebook_metadata:
+  title: རྡོ་རིང་པཎྜི་ཏ་བསྟན་འཛིན་དཔལ་འབྱོར་ལགས་ཀྱི་སྐུ་ཚེའི་ལོ་རྒྱུས་དང་། གཞས་ཚིག་ཕྱོགས་བསྡུས་དགའ་བའི་གླུ་དབྱངས།
+  author: ''
+  sku: P000308
+  cover: cover.jpg
+  layers:
+  - pagination
